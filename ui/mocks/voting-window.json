@@ -1,0 +1,19 @@
+{
+  "sessionId": "session123",
+  "proposals": [
+    {
+      "id": "proposal1",
+      "gameName": "Smash Bros.",
+      "platform": "Switch",
+      "votes": 3,
+      "votedByCurrentUser": true
+    },
+    {
+      "id": "proposal2",
+      "gameName": "Rocket League",
+      "platform": "PC",
+      "votes": 1,
+      "votedByCurrentUser": false
+    }
+  ]
+}

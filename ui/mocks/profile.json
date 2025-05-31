@@ -1,0 +1,20 @@
+{
+  "user": {
+    "id": "user1",
+    "name": "Your Name",
+    "nickname": "Zelda: BotW",
+    "platforms": ["Switch", "PC"],
+    "avatarUrl": "https://example.com/avatar.jpg"
+  },
+  "proposedGames": [
+    { "name": "Smash Bros.", "sessionDate": "2025-06-01" },
+    { "name": "Halo Infinite", "sessionDate": "2025-05-11" }
+  ],
+  "participatedSessions": [
+    {
+      "sessionId": "session121",
+      "gameName": "Mario Kart",
+      "date": "2025-05-18T21:00:00Z"
+    }
+  ]
+}

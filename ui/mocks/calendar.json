@@ -1,0 +1,24 @@
+{
+  "upcomingSessions": [
+    {
+      "id": "session123",
+      "gameName": "Smash Bros.",
+      "date": "2025-06-01T21:00:00Z",
+      "status": "PLANNED"
+    }
+  ],
+  "pastSessions": [
+    {
+      "id": "session122",
+      "gameName": "Rocket League",
+      "date": "2025-05-25T21:00:00Z",
+      "status": "DONE"
+    },
+    {
+      "id": "session121",
+      "gameName": "Mario Kart",
+      "date": "2025-05-18T21:00:00Z",
+      "status": "DONE"
+    }
+  ]
+}

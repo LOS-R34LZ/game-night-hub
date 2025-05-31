@@ -1,0 +1,26 @@
+{
+  "nextSession": {
+    "id": "session123",
+    "date": "2025-06-01T21:00:00Z",
+    "mostVotedGame": {
+      "name": "Smash Bros.",
+      "platform": "Switch"
+    },
+    "confirmedUsers": [
+      { "id": "user1", "nickname": "Link" },
+      { "id": "user2", "nickname": "Zelda" }
+    ]
+  },
+  "recentSessions": [
+    {
+      "id": "session122",
+      "gameName": "Rocket League",
+      "date": "2025-05-25T21:00:00Z"
+    },
+    {
+      "id": "session121",
+      "gameName": "Mario Kart",
+      "date": "2025-05-18T21:00:00Z"
+    }
+  ]
+}
